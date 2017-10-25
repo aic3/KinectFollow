@@ -1,2 +1,2 @@
 # KinectFollow
-Unity display power by the Microsoft Kinect
+Unity display powered by the Microsoft Kinect
